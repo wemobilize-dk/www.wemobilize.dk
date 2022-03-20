@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recents Article on Portio</title>
-    <link>http://www.wemobilize.dk/blog/</link>
+    <link>www.wemobilize.dk/blog/</link>
     <description>Recent content in Recents Article on Portio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://www.wemobilize.dk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 12:49:27 +0600</lastBuildDate><atom:link href="www.wemobilize.dk/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://www.wemobilize.dk/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <title>Setting up startup infrastructure</title>
+      <link>www.wemobilize.dk/blog/it_infrastructure_when_setting_up_company/</link>
+      <pubDate>Fri, 13 Nov 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://www.wemobilize.dk/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>www.wemobilize.dk/blog/it_infrastructure_when_setting_up_company/</guid>
+      <description>I am currently starting my next phase of professional life involving being a CTO as a Service for two startups, initially. One thing than any company needs is basic IT infrastructure. Based on my experiences the last 7 years in LetsBuild and talking to various other people in my network, the following systems form the cornerstone of the companies
+ Google Workspace - Email, Calendar  When setting up mail, it&amp;rsquo;s important to setup SPF, DKIM and DMARC to avoid that the mail lands in receiver&amp;rsquo;s spam.</description>
     </item>
     
     <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://www.wemobilize.dk/blog/first-post/</link>
+      <title>Setting up my own blog</title>
+      <link>www.wemobilize.dk/blog/setting_up_a_blog/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://www.wemobilize.dk/blog/first-post/</guid>
-      <description>HEAT
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>www.wemobilize.dk/blog/setting_up_a_blog/</guid>
+      <description>I like statically generated web-sites. Using them skips a lot of heavy infrastructure and potential trouble securing that. So unless you need a large largely non technical marketing department running your website, and you are a little tech savy (which I should be in my job, good to keep in touch with the base). So I tried a few things, first Jekyll which supposedly is the major one out there, but it runs on ruby and ruby is a complex beast to install and maintain in different versions (probably not first time, but when you come back later, you can spend a lot of time just getting it right; a bit similar with Python.</description>
     </item>
     
   </channel>

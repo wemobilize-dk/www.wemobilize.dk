@@ -2,126 +2,135 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portio</title>
-    <link>http://www.wemobilize.dk/</link>
+    <link>www.wemobilize.dk/</link>
     <description>Recent content on Portio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="http://www.wemobilize.dk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Nov 2020 12:49:27 +0600</lastBuildDate><atom:link href="www.wemobilize.dk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Recipe App Ux Study</title>
-      <link>http://www.wemobilize.dk/portfolio/recipe-app-ux-study/</link>
+      <title>Setting up startup infrastructure</title>
+      <link>www.wemobilize.dk/blog/it_infrastructure_when_setting_up_company/</link>
+      <pubDate>Fri, 13 Nov 2020 12:49:27 +0600</pubDate>
+      
+      <guid>www.wemobilize.dk/blog/it_infrastructure_when_setting_up_company/</guid>
+      <description>I am currently starting my next phase of professional life involving being a CTO as a Service for two startups, initially. One thing than any company needs is basic IT infrastructure. Based on my experiences the last 7 years in LetsBuild and talking to various other people in my network, the following systems form the cornerstone of the companies
+ Google Workspace - Email, Calendar  When setting up mail, it&amp;rsquo;s important to setup SPF, DKIM and DMARC to avoid that the mail lands in receiver&amp;rsquo;s spam.</description>
+    </item>
+    
+    <item>
+      <title>CTO for Anyware.solutions</title>
+      <link>www.wemobilize.dk/portfolio/20_anyware_solutions/</link>
+      <pubDate>Sun, 01 Nov 2020 08:00:00 +0100</pubDate>
+      
+      <guid>www.wemobilize.dk/portfolio/20_anyware_solutions/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Strategic BI Advisor for LetsBuild.com</title>
+      <link>www.wemobilize.dk/portfolio/30_lb_bi/</link>
+      <pubDate>Sun, 01 Nov 2020 08:00:00 +0100</pubDate>
+      
+      <guid>www.wemobilize.dk/portfolio/30_lb_bi/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Technical co-founder SiteHub.dk</title>
+      <link>www.wemobilize.dk/portfolio/10_sitehub_dk/</link>
+      <pubDate>Sun, 01 Nov 2020 08:00:00 +0100</pubDate>
+      
+      <guid>www.wemobilize.dk/portfolio/10_sitehub_dk/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Your Name here</title>
+      <link>www.wemobilize.dk/portfolio/50_this_space_is_free/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>http://www.wemobilize.dk/portfolio/recipe-app-ux-study/</guid>
+      <guid>www.wemobilize.dk/portfolio/50_this_space_is_free/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>UX Case Study for Agriculture App</title>
-      <link>http://www.wemobilize.dk/portfolio/ux-case-study-for-agriculture-app/</link>
+      <title>Pletora.io</title>
+      <link>www.wemobilize.dk/portfolio/40_pletora_io/</link>
       <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <guid>www.wemobilize.dk/portfolio/40_pletora_io/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
-      <title>Event App Case Study</title>
-      <link>http://www.wemobilize.dk/portfolio/event-app-case-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>http://www.wemobilize.dk/portfolio/event-app-case-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://www.wemobilize.dk/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <title>Setting up my own blog</title>
+      <link>www.wemobilize.dk/blog/setting_up_a_blog/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://www.wemobilize.dk/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
-      <link>http://www.wemobilize.dk/blog/first-post/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://www.wemobilize.dk/blog/first-post/</guid>
-      <description>HEAT
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Case Study One</title>
-      <link>http://www.wemobilize.dk/portfolio/case-study-one/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://www.wemobilize.dk/portfolio/case-study-one/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>www.wemobilize.dk/blog/setting_up_a_blog/</guid>
+      <description>I like statically generated web-sites. Using them skips a lot of heavy infrastructure and potential trouble securing that. So unless you need a large largely non technical marketing department running your website, and you are a little tech savy (which I should be in my job, good to keep in touch with the base). So I tried a few things, first Jekyll which supposedly is the major one out there, but it runs on ruby and ruby is a complex beast to install and maintain in different versions (probably not first time, but when you come back later, you can spend a lot of time just getting it right; a bit similar with Python.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.wemobilize.dk/archives/</link>
+      <link>www.wemobilize.dk/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/archives/</guid>
+      <guid>www.wemobilize.dk/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://www.wemobilize.dk/post/markdown-syntax/</link>
+      <link>www.wemobilize.dk/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/post/markdown-syntax/</guid>
+      <guid>www.wemobilize.dk/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>http://www.wemobilize.dk/post/rich-content/</link>
+      <link>www.wemobilize.dk/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/post/rich-content/</guid>
+      <guid>www.wemobilize.dk/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://www.wemobilize.dk/post/placeholder-text/</link>
+      <link>www.wemobilize.dk/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/post/placeholder-text/</guid>
+      <guid>www.wemobilize.dk/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>http://www.wemobilize.dk/post/math-typesetting/</link>
+      <link>www.wemobilize.dk/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/post/math-typesetting/</guid>
+      <guid>www.wemobilize.dk/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://www.wemobilize.dk/post/emoji-support/</link>
+      <link>www.wemobilize.dk/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/post/emoji-support/</guid>
+      <guid>www.wemobilize.dk/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.wemobilize.dk/about/</link>
+      <link>www.wemobilize.dk/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/about/</guid>
+      <guid>www.wemobilize.dk/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -129,10 +138,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title></title>
-      <link>http://www.wemobilize.dk/posts/first-post/</link>
+      <link>www.wemobilize.dk/posts/first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.wemobilize.dk/posts/first-post/</guid>
+      <guid>www.wemobilize.dk/posts/first-post/</guid>
       <description>title: &amp;ldquo;Benjamin Franklins thoughts about new designers&amp;rdquo; date: 2020-07-13T12:49:27+06:00 featureImage: images/allpost/allPost-7.jpg postImage: images/single-blog/feature-image.jpg Nikolaj was here Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
